@@ -12,5 +12,3 @@ else:
 fi
 mv  /var/www/mimidai-cms  /var/www/mimidai-cms-$(date +%Y%m%d-%H%M%S)
 mv /data/test_mimidai /var/www/mimidai-cms
-
-echo "on"
